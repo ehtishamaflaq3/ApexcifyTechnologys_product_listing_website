@@ -6,11 +6,11 @@ A sleek, high-fidelity front-end clone of the Amazon homepage. This project focu
 
 ## Key Features
 
-** Multi-Layered Navbar**: Includes the Amazon logo, location selector, a functional-style search bar with category dropdowns, and account/order links.
-** Navigation Panel**: A secondary "All" menu bar featuring "Today's Deals," "Customer Service," and specialized shopping links.
-** Responsive Hero Section**: A large, immersive background image with a localized delivery message overlay.
-** Dynamic Product Grid**: A 2-line shopping section containing 8 distinct category boxes (Clothes, Electronics, Pets, etc.) with hover-ready borders.
-** Comprehensive Footer**: Includes a "Back to Top" button, four columns of organized site links, and a localized branding section.
+* ** Multi-Layered Navbar**: Includes the Amazon logo, location selector, a functional-style search bar with category dropdowns, and account/order links.
+* ** Navigation Panel**: A secondary "All" menu bar featuring "Today's Deals," "Customer Service," and specialized shopping links.
+* ** Responsive Hero Section**: A large, immersive background image with a localized delivery message overlay.
+* ** Dynamic Product Grid**: A 2-line shopping section containing 8 distinct category boxes (Clothes, Electronics, Pets, etc.) with hover-ready borders.
+* ** Comprehensive Footer**: Includes a "Back to Top" button, four columns of organized site links, and a localized branding section.
 
 ---
 
@@ -24,6 +24,12 @@ A sleek, high-fidelity front-end clone of the Amazon homepage. This project focu
 ---
 
 ## Check Now
+
+<p align="center">
+  <a href="https://ehtishamaflaq3.github.io/ApexcifyTechnologys_calculator/">
+    <img src="https://img.shields.io/badge/Live%20Project-View%20Now-ff3d00?style=for-the-badge&logo=google-chrome&logoColor=white"/>
+  </a>
+</p>
 
 
 ---
