@@ -13,3 +13,6 @@ A sleek, high-fidelity front-end clone of the Amazon homepage. This project focu
 * **Comprehensive Footer**: Includes a "Back to Top" button, four columns of organized site links, and a localized branding section.
 
 ---
+
+## Author
+Ehtisham Aflak
