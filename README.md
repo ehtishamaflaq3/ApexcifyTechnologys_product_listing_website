@@ -1,16 +1,58 @@
 # ApexcifyTechnologys_product_listing_website
 
-A sleek, high-fidelity front-end clone of the Amazon homepage. This project focuses on mastering **CSS Flexbox**, complex navigation layouts, and semantic HTML structure.
+This project is a simple front-end clone of the Amazon homepage.  
+I created this project to practice **HTML and CSS (Flexbox)** and improve my layout skills.
 
 ---
 
-## Key Features
+## Features
 
-* ** Multi-Layered Navbar: Includes the Amazon logo, location selector, a functional-style search bar with category dropdowns, and account/order links.
-* ** Navigation Panel: A secondary "All" menu bar featuring "Today's Deals," "Customer Service," and specialized shopping links.
-* ** Responsive Hero Section: A large, immersive background image with a localized delivery message overlay.
-* ** Dynamic Product Grid: A 2-line shopping section containing 8 distinct category boxes (Clothes, Electronics, Pets, etc.) with hover-ready borders.
-* ** Comprehensive Footer: Includes a "Back to Top" button, four columns of organized site links, and a localized branding section.
+### Navbar
+- Amazon logo  
+- Location selector  
+- Search bar with category dropdown  
+- Account & Orders section  
+
+### Menu Bar
+- “All” menu  
+- Links like Today's Deals, Customer Service, etc.  
+
+### Hero Section
+- Large background image  
+- Delivery message overlay  
+
+### Product Section
+- 8 category boxes (Clothes, Electronics, Pets, etc.)  
+- Grid layout  
+- Hover effects  
+
+### Footer
+- Back to Top button  
+- Multiple link sections  
+- Amazon branding  
+
+---
+
+## Technologies Used
+
+- HTML5  
+- CSS3 (Flexbox)  
+
+---
+
+## Purpose of Project
+
+- Practice website layout  
+- Learn Flexbox  
+- Improve front-end development skills  
+
+---
+
+## Future Improvements
+
+- Make it fully responsive  
+- Add JavaScript functionality  
+- Improve UI/UX design
 
 ---
 
@@ -32,5 +74,11 @@ A sleek, high-fidelity front-end clone of the Amazon homepage. This project focu
 </p>
 
 ---
+
 ## Author
 Ehtisham Aflak
+
+---
+## Contributing
+
+Feel free to fork this project and improve it.
