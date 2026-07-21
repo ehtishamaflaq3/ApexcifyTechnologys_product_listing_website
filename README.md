@@ -77,8 +77,3 @@ I created this project to practice **HTML and CSS (Flexbox)** and improve my lay
 
 ## Author
 Ehtisham Aflak
-
----
-## Contributing
-
-Feel free to fork this project and improve it.
