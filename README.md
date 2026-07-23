@@ -29,22 +29,17 @@ I created this project to practice **HTML and CSS (Flexbox)** and improve my lay
 - Multiple link sections  
 - Amazon branding  
 
----
-
 ## Technologies Used
 
 - HTML5  
 - CSS3 (Flexbox)  
 
----
 
 ## Purpose of Project
 
 - Practice website layout  
 - Learn Flexbox  
 - Improve front-end development skills  
-
----
 
 ## Future Improvements
 
@@ -67,8 +62,6 @@ I created this project to practice **HTML and CSS (Flexbox)** and improve my lay
     <img src="https://img.shields.io/badge/Live%20Project-View%20Now-ff3d00?style=for-the-badge&logo=google-chrome&logoColor=white"/>
   </a>
 </p>
-
----
 
 ## Author
 Ehtisham Aflak
