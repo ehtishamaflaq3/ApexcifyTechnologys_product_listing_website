@@ -3,8 +3,6 @@
 This project is a simple front-end clone of the Amazon homepage.  
 I created this project to practice **HTML and CSS (Flexbox)** and improve my layout skills.
 
----
-
 ## Features
 
 ### Navbar
@@ -54,8 +52,6 @@ I created this project to practice **HTML and CSS (Flexbox)** and improve my lay
 - Add JavaScript functionality  
 - Improve UI/UX design
 
----
-
 ## Preview
 <img width="1918" height="883" alt="1" src="https://github.com/user-attachments/assets/0d716d7b-c75d-450e-a58b-64cb8efc8898" />
 
@@ -63,7 +59,6 @@ I created this project to practice **HTML and CSS (Flexbox)** and improve my lay
 
 <img width="1918" height="592" alt="3" src="https://github.com/user-attachments/assets/7d42bdb8-aff0-49e0-82b8-d55f60afacbb" />
 
----
 
 ## Check Now
 
